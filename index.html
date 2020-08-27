@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+	<script src="https://kit.fontawesome.com/54045f35be.js" crossorigin="anonymous"></script>
 	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;900&display=swap" rel="stylesheet">
 	<link rel="stylesheet" href="css/styles.css">
 	<meta charset="UTF-8">
@@ -13,17 +14,20 @@
 	<div class="main-box">
 		<div class="right_box">
 			<img class="img-case" src="img/briefcase.svg" alt="briefcase">
-			<a href="#" class="p"><strong>get in touch </strong></a>
-			<a href="#" class="p p-opacity"> have project in mind </a>
+			<a href="#" class="p p-scale"><strong>get in touch </strong></a>
+			<a href="#" class="p p-opacity">have project in mind</a>
 		</div>
 		<div class="main-content">
 			<header class="header">
 				<a class="logo-top" href="index.html">blow</a>
+				<input type="checkbox" id="switcher">
+				<label id="open" for="switcher"><i class="fas fa-bars"></i></label>
 				<nav class="menu">
 					<a class="menu-link menu-link-active" href="index.html">home</a>
 					<a class="menu-link" href="#">about</a>
 					<a class="menu-link" href="#">work</a>
 					<a class="menu-link" href="#">contact</a>
+					<label id="close" for="switcher"><i class="far fa-times-circle white"></i></label>
 				</nav>
 			</header>
 			<img src="img/Group.svg" class="media-img"></img>
