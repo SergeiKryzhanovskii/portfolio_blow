@@ -1,12 +1,12 @@
 ## Portfolio (web developer)
 
-Link To Go: [:tw-1f4a5:][link]
+Link To Go: [BLOW][link]
 
 ------------
 
 ####Description
 
-It is simple:
+######The recipe is simple::
 - Some Html.
 - A bit more CSS.
 - A bit of adaptability.
