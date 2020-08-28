@@ -6,7 +6,7 @@ Link To Go: [BLOW.][link]
 
 ### Description
 
-Paraphrasing the words of one revolutionary (Tiler Derden): "The HTML will gain structure - there will be page layout. Add CSS - there will be styled page. And animation and adaptability - there will be site page. Having a lot of pages - you can [BLOW][link] up everything in the World Wide Web."
+Paraphrasing the words of one revolutionary (Tyler Durden): "The HTML will gain structure - there will be page layout. Add CSS - there will be styled page. Add animation and adaptability - there will be site page. Having a lot of pages - you can [BLOW][link] up everything in the World Wide Web."
 
 ##### The recipe is simple::
 - Some Html5;
