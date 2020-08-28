@@ -11,7 +11,7 @@ Paraphrasing the words of one revolutionary (Tiler Derden): "The HTML will gain 
 ##### The recipe is simple::
 - Some Html5;
 - A bit more CSS3;
-- A bit of adaptability wits FlexBox;
+- A bit of adaptability with FlexBox;
 - And the site layout from these guys: [TPVERSTAK][TPVERSTAK] (Thank you!).
 
 
