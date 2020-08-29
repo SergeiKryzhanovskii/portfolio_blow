@@ -198,8 +198,7 @@ i {
 		background-color: #333333;
 		position: absolute;
 		margin-top: -20px;
-		opacity: 0;
-		left: 0;
+		left: 100%;
 		transition: all 0.4s;
 	}
 
@@ -234,7 +233,6 @@ i {
 
 	
 	  #switcher:checked ~ .menu  {
-		opacity: 1;
 		left: 0;
 	  }
 
@@ -302,8 +300,7 @@ i {
 		background-color: #333333;
 		position: absolute;
 		margin-top: -10px;
-		opacity: 0;
-		left: 0;
+		left: 100%;
 		transition: all 0.4s;
 	}
 
@@ -337,7 +334,6 @@ i {
 	  }
 
 	#switcher:checked ~ .menu  {
-		opacity: 1;
 		left: 0;
 		}
 
@@ -415,8 +411,7 @@ i {
 		background-color: #333333;
 		position: absolute;
 		margin-top: -10px;
-		opacity: 0;
-		left: 0;
+		left: 100%;
 		transition: all 0.4s;
 	}
 
@@ -450,7 +445,6 @@ i {
 	  }
 
 	#switcher:checked ~ .menu  {
-		opacity: 1;
 		left: 0;
 		}
 
@@ -525,8 +519,7 @@ i {
 		background-color: #333333;
 		position: absolute;
 		margin-top: -10px;
-		opacity: 0;
-		left: 0;
+		left: 100%;
 		transition: all 0.4s;
 	}
 
@@ -560,7 +553,6 @@ i {
 	  }
 
 	#switcher:checked ~ .menu  {
-		opacity: 1;
 		left: 0;
 		}
 
@@ -634,8 +626,7 @@ i {
 		background-color: #333333;
 		position: absolute;
 		margin-top: -10px;
-		opacity: 0;
-		left: 0;
+		left: 100%;
 		transition: all 0.4s;
 	}
 
@@ -669,7 +660,6 @@ i {
 	  }
 
 	#switcher:checked ~ .menu  {
-		opacity: 1;
 		left: 0;
 		}
 
@@ -742,8 +732,7 @@ i {
 		background-color: #333333;
 		position: absolute;
 		margin-top: -20px;
-		opacity: 0;
-		left: 0;
+		left: 100%;
 		transition: all 0.4s;
 	}
 
@@ -778,7 +767,6 @@ i {
 
 	
 	#switcher:checked ~ .menu  {
-		opacity: 1;
 		left: 0;
 	  }
 
